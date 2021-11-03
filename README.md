@@ -1,6 +1,6 @@
-# mobile_exercise_8
+# Mobile Flutter - Build and Release App - Exercise 8
 
-A new Flutter project.
+An unsigned flutter APK was built. Then, a JKS file was created and a signed Flutter APK was built with that JKS file. The project launcher icon was customized to Besquare logo. "Besquare App" is name of the app created.
 
 ## Getting Started
 
